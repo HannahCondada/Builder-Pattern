@@ -19,4 +19,4 @@ _However, you encounter challenges:_
 Implement solution using the Builder Pattern to address the issue.
 
 # Builder Pattern Diagram
-![Builder Pattern Diagram](https://github.com/HannahCondada/Builder-Pattern/assets/142371011/020e5c58-29c3-410f-9ee1-979d710bf7ba)
+![Builder Pattern Diagram](https://github.com/HannahCondada/Builder-Pattern/assets/142371011/6e61718b-2a10-4c7f-a607-e0f3f52e450e)
